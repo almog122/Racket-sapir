@@ -1,0 +1,1 @@
+("6.4" ("e27cfcf68365265ce057d6a009013af0a3a53cd9" . "7bc618d620363d9af4239d59324ee4017d910b92") #"C:\\Users\\amiha\\Google Drive\\Sapir2017\\2017_B_PPL\\CODE\\substitution-interpreter\\..\\asp.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
